@@ -1,0 +1,44 @@
+================================================>> Intermediate Images <<===========================================================
+
+1. images - 
+
+2. images_Copy1 - 
+
+3. images_copy2 - 
+
+4. images_mnist - 
+
+===================================================>> Saved Model <<==================================================================
+
+1. saved_model -
+
+2. saved_model_Copy1 -
+
+3. saved_model_Copy2 -
+
+========================================================>> Training Data <<=============================================================
+
+1. training_data - 
+
+=====================================================>>  CGan Notebook Files <<===========================================================
+
+1. CGAN.ipynb - calling main code having both loss functions i.e trained on mnist dataset using labels 
+
+2. CGAN_Copy1.ipynb - calling model trained on Mnist dataset using only real and fake i.e without label of image 
+
+3. CGAN_Copy2.ipynb - calling model trained on our input Image having only real and fake image and with changed configuration of model
+
+=====================================================>>  CGan Class Files <<===========================================================
+
+1. CGAN.py - contains main code having both loss functions i.e trained on mnist dataset using labels 
+
+2. CGAN_Copy1.py - contains model trained on Mnist dataset using only real and fake i.e without label of image 
+
+3. CGAN_Copy2.py - contains model trained on our input Image having only real and fake image and with changed configuration of model
+
+========================================================>> Others <<======================================================================
+
+1. Load_data.py - Function to load images data from training folder to class object 
+
+2. logfile 
+
